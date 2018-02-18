@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> fun with charts</title>
+<style>
+body
+{
+font-family:Timesnewroman;
+font-size: 16px;
+}
+.bars0{
+background-color:red;
+}
+#bar0
+{
+width: 700px;
+height:250px;
+}
+.bars1{
+background-color:blue;
+}
+#bar1
+{
+width: 500px;
+height:250px;
+}
+.bars2{
+background-color:green;
+}
+#bar2
+{
+width: 250px;
+height:250px;
+}
+</style>
+</head>
+<body>
+<div id="bar0" class="bars0"><p class="number">700</p>
+</div>
+<div id="name0">india</div>
+<div id="bar1" class="bars1"><p class="number">500</p>
+</div>
+<div id="name1">austrlia</div>
+<div id="bar2" class="bars2"><p class="number">250</p>
+</div>
+<div id="name2">USA</div>
+ <script>
+</body>
+</html>
